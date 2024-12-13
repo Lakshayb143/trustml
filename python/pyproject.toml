@@ -1,0 +1,10 @@
+[build-system]
+requires = ["maturin"]
+build-backend = "maturin"
+
+[project]
+name = "adversarial_tool"
+version = "0.1.0"
+description = "Adversarial ML Defense Tool"
+authors = ["Lakshay Bhatia <lakshaybhatia46@gmai.com>"]
+license = "MIT"
